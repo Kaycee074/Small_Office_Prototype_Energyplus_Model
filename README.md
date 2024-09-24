@@ -4,7 +4,7 @@ This repository contains the EnergyPlus Input Data File (IDF) and associated wea
 
 **Contents:**   
 
--**SmallOffice_IDF.idf:** This IDF file models a small office building modified for our specific research needs. Modifications include reduced window and door sizes to explore their effects on building energy performance and thermal comfort.  
+-**SmallOffice_IDF.idf:** The main IDF file for the small office building, adjusted to include different configurations of door and window sizes.  
 
 -**Weather_File.epw:** The weather file used for the simulations, providing environmental conditions that closely mimic the specific geographic location of our study.
 
